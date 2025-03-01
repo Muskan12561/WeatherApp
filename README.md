@@ -4,11 +4,18 @@ A simple web application that provides real-time weather updates for any locatio
 Built with HTML, CSS, and JavaScript, using a weather API to fetch data.
 
 🎯 Features
+
 ✅ Search for any city and get current weather details
+
 🌡️ Displays temperature, humidity, and weather conditions
+
 📍 Detects your location automatically (if permission granted)
+
 🎨 Responsive UI for all devices
+
 🚀 Uses an external Weather API for real-time data
+
+Live Demo: https://muskan12561.github.io/WeatherApp/
 
 📥 Installation
 Follow these steps to set up the project locally:
@@ -25,9 +32,13 @@ Follow these steps to set up the project locally:
 📂 Folder Structure
 
 WeatherApp/
+
 │── index.html      # Main HTML file
+
 │── style.css       # Stylesheet
+
 │── app.js          # JavaScript logic
+
 │── assets/         # Folder for images/icons
 
 💡 Contributing
