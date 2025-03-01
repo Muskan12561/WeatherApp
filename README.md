@@ -1,4 +1,5 @@
 🌤 Weather App
+
 A simple web application that provides real-time weather updates for any location.
 Built with HTML, CSS, and JavaScript, using a weather API to fetch data.
 
