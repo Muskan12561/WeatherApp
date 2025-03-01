@@ -37,9 +37,7 @@ WeatherApp/
 
 │── style.css       # Stylesheet
 
-│── app.js          # JavaScript logic
-
-│── assets/         # Folder for images/icons
+│── images         # Folder for images/icons
 
 💡 Contributing
 Feel free to contribute! Submit a pull request to enhance features or improve UI.
